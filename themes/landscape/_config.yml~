@@ -1,0 +1,40 @@
+# Header
+menu:
+  主页: /
+  归档: /archives
+  部门介绍: /categories/部门介绍/
+  技术文档: /categories/技术文档/
+  资讯推送: /categories/资讯推送/
+  友情链接: /categories/友情链接/
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:

@@ -1,0 +1,35 @@
+---
+title: info组网站运营成员招募
+date: 2016-12-11 18:57:00
+categories: 
+- 资讯推送
+- 招募信息
+tags: 科协学习部
+top: 2
+---
+> ### Mechinfo期待你的加入！
+
+<!-- more -->
+
+<ul>
+    <li><h3>What is Mechinfo?</h3>
+            Mechinfo由Info组开发、维护。
+            Info组是学习部旗下的技术品牌。
+            Info组经历两代人的发展，已成为学习部为同学服务的重要平台。
+    </li>
+    <hr>
+    <li><h3>What can you get?</h3>
+            在这里，你可以：学习到linux运维、网页前端／后端开发，做出炫酷的网页效果……
+    </li>
+    <hr>
+    <li><h3>What can you do?</h3>
+            在这里，你可以实实在在地为同学们提供服务，同时磨砺自己的计算机技术，并最终成为一只大牛哦，真的:)
+    </li>
+</ul>
+
+>**喜欢科创和计算机的骚年，快到碗里来~**
+>*有意向者，请在Wechat中戳：王芮:Aray*
+
+<!-- <image src="http://img.juimg.com/tuku/yulantu/131019/328814-131019162P843.jpg" height=100% width=100%> -->
+![](Wanted/Wanted.jpg)
+
