@@ -44,5 +44,5 @@ jekyll我用过，需要使用ruby，代码确实管理混乱，非常难以理�
 
 ## FAQ
 ---
-categories栏无法正常显示的问题：相关文件为./themes/landscape/layout/_partial/post/category.ejs,似乎重新hexo generate使其恢复正常，具体原因待探究233
+categories栏无法正常显示的问题：相关文件位置为./themes/landscape/layout/_partial/post,似乎重新hexo generate可使其恢复正常，具体原因待探究233
 
