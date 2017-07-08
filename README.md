@@ -103,3 +103,7 @@ jekyll我用过，需要使用ruby，代码确实管理混乱，非常难以理�
 		
 	此错误原因有待探究！
 
+
+* 2017.7.4: hexo has a problem displaying images.
+	2017.7.8 update: problem solved. Former ways of displaying image in normal markdown format were all erroneous. However, the command "hexo server" will be able to display images in markdown format so the problem did not pop up. In order for hexo to generate the correct static webpage, the command has to be changed to this format: {% asset_img example.jpg This is an example image %} see https://hexo.io/docs/asset-folders.html for detailed reference.
+
